@@ -1,4 +1,4 @@
-:: Renomei em massa uma lista em um arquivo TXT.
+:: Renomei em massa o final no texto em uma lista em um arquivo TXT.
 :: Está progrmado para pegar um nome, como "nome1" e transformar em "nome1.ini"
 
 @echo off
@@ -16,3 +16,4 @@ pause
 :: Fim do script
 
 endlocal
+
