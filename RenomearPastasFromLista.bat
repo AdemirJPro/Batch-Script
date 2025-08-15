@@ -1,3 +1,6 @@
+:: Crie o arquivo ListaNomesPastas.txt no mesmo diretório do bat e
+:: dentro dele coloque uma lista de nomes de pastas linha por linha para criar.
+
 @echo off
 setlocal
 
@@ -7,5 +10,6 @@ for /f "delims=" %%a in ('dir /b /ad "%~dp0\*.*"') do (
   contador += 1
   
 )
+
 
 endlocal
