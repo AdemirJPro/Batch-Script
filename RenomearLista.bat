@@ -1,5 +1,6 @@
 :: Renomei em massa o final no texto em uma lista em um arquivo TXT.
-:: Está progrmado para pegar um nome, como "nome1" e transformar em "nome1.ini"
+:: Está programado para pegar um nome, como "nome1" e transformar em "nome1.ini"
+:: Mudei a variável "novoNome" para o desejado.
 
 @echo off
 setlocal EnableDelayedExpansion
@@ -16,4 +17,5 @@ pause
 :: Fim do script
 
 endlocal
+
 
