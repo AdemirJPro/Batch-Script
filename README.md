@@ -1,2 +1,2 @@
-# Bath-Script
-Automações para trabalho em Back Script
+# Batch-Script
+Automações para trabalho em Batch Sript
